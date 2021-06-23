@@ -1,5 +1,7 @@
 ### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
 
+![Uploading 1497533116-not-dead.gif…]()
+
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
@@ -22,7 +24,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/stuntstorm?color=1DA1F2&labelColor=FFFFFF&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstuntstorm&screen_name=stuntstorm)
 [![GitHub followers](https://img.shields.io/github/followers/StuntStorm?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=for-the-badge)]()
-[![youtube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC1eU8m3rj57SUUOVao9o6bA&key=AIzaSyAiD82_6gURcMJcpfXZgWmnWSVAO9IneuY&color=red&labelColor=FF2436&style=for-the-badge)](https://www.youtube.com/channel/UC1eU8m3rj57SUUOVao9o6bA)
+
 
 [<img align="left" alt="StuntStorm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="StuntStorm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -41,39 +43,17 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
-- [How To Blog #short](https://www.youtube.com/watch?v=CGcv1wuwNG0)
-- [Keyword Research #short](https://www.youtube.com/watch?v=5X3NjLoqUgQ)
-- [Catchy Blog Titles #short](https://www.youtube.com/watch?v=gLwPcnaqSMc)
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
+[![youtube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC1eU8m3rj57SUUOVao9o6bA&key=AIzaSyAiD82_6gURcMJcpfXZgWmnWSVAO9IneuY&color=red&labelColor=FF2436&style=for-the-badge)](https://www.youtube.com/channel/UC1eU8m3rj57SUUOVao9o6bA)
+- [StuntX : The impossible Game DevLog](https://www.youtube.com/watch?v=Y6fbVoowb4Q)
+- [Developing a Game within 6 HOURS!](https://www.youtube.com/watch?v=VWymhQIGdIQ)
+- [Content Creator Speed Art : CraftCoder](https://www.youtube.com/watch?v=419kVnCGSLY)
+- [360° Minecraft Rollercoaster Ride](https://www.youtube.com/watch?v=YB1tVPV6ZfM)
+- [Learn how to Code in Unity!)](https://www.youtube.com/watch?v=SLWhEXcsdN8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
+➡️ [more videos...](https://youtube.com/stuntstorm Production)
 
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://stuntstorm.studio
 [course]: http://vsCodeHero.com
