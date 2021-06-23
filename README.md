@@ -1,16 +1,16 @@
 ### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
 
-![a_ce917ff0d02a596ae0188f8d916495b6](https://user-images.githubusercontent.com/56226566/123038605-9488f400-d3a5-11eb-9a8a-c3d36bdc858e.gif)
+![Untitled design](https://user-images.githubusercontent.com/56226566/123040420-943e2800-d3a8-11eb-85f0-0a420b9a7c3b.gif)
 
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
-[![Discord](https://img.shields.io/website?label=Invite_StuntStorm_Bot&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
+[![Invite StuntStorm bot](https://img.shields.io/website?&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
 
 
 
 ## || Game Developer || Discord Bot Developer || NOOBIE GAMER ||
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/a-maliarov/amazoncaptcha/master?branch=master&label=CodeFactor&logo=CodeFactor&logoColor=ffffff&labelColor=F44A6A&style=flat)]()
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/stuntstorm/stuntstorm/master?branch=master&label=CodeFactor&logo=CodeFactor&logoColor=ffffff&labelColor=F44A6A&style=flat)]()
 - 🎭 I have developed a Couple of Games for Pc and Mobile 🎠
 - 👾 I have made more than 15+ Discord Bots (Private & Public)
 - 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
@@ -36,6 +36,17 @@
 
 ### Languages and Tools:
 
+<!-- TOOLS:START -->
+[![Reddit](https://img.shields.io/website?&logo=reddit&style=for-the-badge&url=https%3A%2F%2Freddit.com/r/stuntstorm)](https://www.reddit.com/r/stuntstorm)
+- Python
+- JavaScript
+- C#
+- HTML
+- XML
+- SQL
+- MangoDB
+- MariaDB
+<!-- TOOLS:END -->
 
 ---
 
@@ -61,3 +72,4 @@
 [instagram]: https://instagram.com/rizwan.nizarudin_
 [pc game]: https://stuntstorm.itch.io/stuntx-the-impossible
 [playstore]: https://play.google.com/store/apps/dev?id=7603343073224371113
+[![GitHub License](https://img.shields.io/github/license/mashape/apistatus?branch=master&label=License&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
