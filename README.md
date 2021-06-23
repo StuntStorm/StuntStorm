@@ -1,6 +1,7 @@
 ### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
 
-![Uploading 1497533116-not-dead.gif…]()
+![a_ce917ff0d02a596ae0188f8d916495b6](https://user-images.githubusercontent.com/56226566/123038605-9488f400-d3a5-11eb-9a8a-c3d36bdc858e.gif)
+
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
@@ -9,7 +10,7 @@
 
 
 ## || Game Developer || Discord Bot Developer || NOOBIE GAMER ||
-
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/a-maliarov/amazoncaptcha/master?branch=master&label=CodeFactor&logo=CodeFactor&logoColor=ffffff&labelColor=F44A6A&style=flat)]()
 - 🎭 I have developed a Couple of Games for Pc and Mobile 🎠
 - 👾 I have made more than 15+ Discord Bots (Private & Public)
 - 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
@@ -35,8 +36,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 ---
 
@@ -50,8 +49,7 @@
 - [360° Minecraft Rollercoaster Ride](https://www.youtube.com/watch?v=YB1tVPV6ZfM)
 - [Learn how to Code in Unity!)](https://www.youtube.com/watch?v=SLWhEXcsdN8)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/stuntstorm Production)
+➡️ [more videos...](https://youtube.com/stuntstormProduction)
 
 
 
