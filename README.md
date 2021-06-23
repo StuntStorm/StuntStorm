@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/stuntstorm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstuntstorm&screen_name=stuntstorm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stuntstorm?color=1DA1F2&labelColor=FFFFFF&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstuntstorm&screen_name=stuntstorm)
 [![GitHub followers](https://img.shields.io/github/followers/StuntStorm?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=for-the-badge)]()
 [![youtube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC1eU8m3rj57SUUOVao9o6bA&key=AIzaSyAiD82_6gURcMJcpfXZgWmnWSVAO9IneuY&color=red&labelColor=FF2436&style=for-the-badge)](https://www.youtube.com/channel/UC1eU8m3rj57SUUOVao9o6bA)
 
