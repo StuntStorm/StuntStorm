@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
-[![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
+[![Discord](https://img.shields.io/website?label=Invite StuntStorm Bot&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 
 
 
@@ -48,8 +48,9 @@
 - [Content Creator Speed Art : CraftCoder](https://www.youtube.com/watch?v=419kVnCGSLY)
 - [360° Minecraft Rollercoaster Ride](https://www.youtube.com/watch?v=YB1tVPV6ZfM)
 - [Learn how to Code in Unity!)](https://www.youtube.com/watch?v=SLWhEXcsdN8)
-<!-- YOUTUBE:END -->
 ➡️ [more videos...](https://youtube.com/stuntstormProduction)
+<!-- YOUTUBE:END -->
+
 
 
 
