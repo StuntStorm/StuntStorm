@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
-[![Invite StuntStorm bot](https://img.shields.io/website?&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
+[![Invite StuntStorm bot](https://img.shields.io/website?label=Invite_StuntStorm_Bot&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
 
 
 
@@ -37,7 +37,7 @@
 ### Languages and Tools:
 
 <!-- TOOLS:START -->
-[![Reddit](https://img.shields.io/website?&logo=reddit&style=for-the-badge&url=https%3A%2F%2Freddit.com/r/stuntstorm)](https://www.reddit.com/r/stuntstorm)
+[![Reddit](https://img.shields.io/website?label=Reddit&logo=Reddit&style=for-the-badge&url=https%3A%2F%2Freddit.com/r/stuntstorm)](https://www.reddit.com/r/stuntstorm)
 - Python
 - JavaScript
 - C#
