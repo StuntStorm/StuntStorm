@@ -5,12 +5,12 @@
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
-[![Invite StuntStorm bot](https://img.shields.io/website?label=Invite_StuntStorm_Bot&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
+[![Invite StuntStorm bot](https://img.shields.io/website?label=StuntStorm:Bot&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
 
 
 
 ## || Game Developer || Discord Bot Developer || NOOBIE GAMER ||
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/stuntstorm/stuntstorm/master?branch=master&label=CodeFactor&logo=CodeFactor&logoColor=ffffff&labelColor=F44A6A&style=flat)]()
+
 - 🎭 I have developed a Couple of Games for Pc and Mobile 🎠
 - 👾 I have made more than 15+ Discord Bots (Private & Public)
 - 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
