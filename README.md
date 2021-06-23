@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
+[![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
 
 
 
