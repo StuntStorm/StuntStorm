@@ -2,6 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<td>
+  <a href="https://discord.gg/u6XzUFkKTn"><img
+                alt="Discord"
+                src="https://img.shields.io/discord/767286138007584780?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"></a>
+ </td>
 
 ##|| Game Developer || Discord Bot Developer || NOOBIE ||
 
