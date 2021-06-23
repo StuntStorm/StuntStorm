@@ -1,17 +1,17 @@
-### Hi there, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
+### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
 
 
 
-## || Game Developer || Discord Bot Developer || NOOBIE ||
+## || Game Developer || Discord Bot Developer || NOOBIE GAMER ||
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🎭 I have developed a Couple of Games for Pc and Mobile 🎠
+- 👾 I have made more than 15+ Discord Bots (Private & Public)
+- 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
+- 🐱‍🏍 Goals : To create own Force Feedback VR Gloves
+
 
 ### Spotify Playing 🎧
 
@@ -20,6 +20,8 @@
 ### Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/stuntstorm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstuntstorm&screen_name=stuntstorm)
+[![GitHub followers](https://img.shields.io/github/followers/StuntStorm?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![Youtube Views](https://img.shields.io/youtube/videos/stuntstormproduction?label=Views&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
 
 [<img align="left" alt="StuntStorm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="StuntStorm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,7 +33,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 ---
