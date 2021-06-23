@@ -5,7 +5,7 @@
 <td>
   <a href="https://discord.gg/u6XzUFkKTn"><img
                 alt="Discord"
-                src="https://img.shields.io/discord/767286138007584780?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33"></a>
+                src="https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge"></a>
  </td>
 
 ##|| Game Developer || Discord Bot Developer || NOOBIE ||
