@@ -22,12 +22,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/stuntstorm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstuntstorm&screen_name=stuntstorm)
 [![GitHub followers](https://img.shields.io/github/followers/StuntStorm?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=for-the-badge)]()
-[![youtube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC1eU8m3rj57SUUOVao9o6bA&key=AIzaSyAiD82_6gURcMJcpfXZgWmnWSVAO9IneuY&color=red&lableColor=red&style=for-the-badge)](https://www.youtube.com/channel/UC1eU8m3rj57SUUOVao9o6bA)
+[![youtube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC1eU8m3rj57SUUOVao9o6bA&key=AIzaSyAiD82_6gURcMJcpfXZgWmnWSVAO9IneuY&color=red&labelColor=FF2436&style=for-the-badge)](https://www.youtube.com/channel/UC1eU8m3rj57SUUOVao9o6bA)
 
 [<img align="left" alt="StuntStorm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="StuntStorm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="StuntStorm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="StuntStorm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][pc game]
 [<img align="left" alt="StuntStorm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
