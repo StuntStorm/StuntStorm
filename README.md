@@ -1,6 +1,6 @@
 ### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm][website] 👋
 
-![Untitled design](https://user-images.githubusercontent.com/56226566/123040420-943e2800-d3a8-11eb-85f0-0a420b9a7c3b.gif)
+![Untitled design (2)](https://user-images.githubusercontent.com/56226566/123424007-e0be7900-d5dd-11eb-9d4f-1aaa0d8d3943.gif)
 
 
 [![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
@@ -62,6 +62,10 @@
 - ➡️ [more videos...](https://youtube.com/stuntstormProduction)
 
 <!-- YOUTUBE:END -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/StuntStorm/count.svg" />
+</p>
 
 
 
