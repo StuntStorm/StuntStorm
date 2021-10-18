@@ -9,7 +9,7 @@
 </p>
 
 
-[![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://StuntStorm.Studio)
+[![Website](https://img.shields.io/website?label=StuntStorm.Studio&style=for-the-badge&url=https%3A%2F%2FStuntStorm.Studio)](https://www.youtube.com/stuntstormproduction)
 [![Discord](https://img.shields.io/discord/717338904079892500?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33&style=for-the-badge)](https://discord.gg/u6XzUFkKTn)
 [![Invite StuntStorm bot](https://img.shields.io/website?label=StuntStorm:Bot&style=for-the-badge&url=https%3A%2F%2Fdiscord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702)
 
