@@ -20,6 +20,24 @@
 - 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
 - 🐱‍🏍 Goals : To create own Force Feedback VR Gloves
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
 
