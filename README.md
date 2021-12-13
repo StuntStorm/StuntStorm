@@ -48,7 +48,7 @@
 - HTML
 - XML
 - SQL
-- MangoDB
+- MongoDB
 - MariaDB
 <!-- TOOLS:END -->
 
