@@ -21,6 +21,8 @@
 - 🐱‍🏍 Goals : To create own Force Feedback VR Gloves
 
 <!--START_SECTION:waka-->
+
+
 <!--END_SECTION:waka-->
 
 ### Spotify Playing 🎧
