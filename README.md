@@ -21,6 +21,9 @@
 - 📻 Got Featured on Radio Station (Club 94.3) for Game Developing at the Age of 17
 - 🐱‍🏍 Goals : To create own Force Feedback VR Gloves
 
+[![@stuntstorm's Holopin board](https://holopin.io/api/user/board?user=stuntstorm)](https://holopin.io/@stuntstorm)
+
+
 <!--START_SECTION:waka-->
 
 
