@@ -1,4 +1,4 @@
-### Hiyaa Coders!, I'm Rizwan Nizarudin - aka [StuntStorm](https://www.youtube.com/stuntstormproduction) 👋
+### Hiyaa Coders!, I'm N Rizwan - aka [StuntStorm](https://www.youtube.com/stuntstormproduction) 👋
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/56226566/123424007-e0be7900-d5dd-11eb-9d4f-1aaa0d8d3943.gif)
 
